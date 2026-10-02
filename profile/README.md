@@ -40,5 +40,5 @@ Gain access to exclusive content such as my personal website code, WIP projects,
 Hope to see you inside!
 
 <p align="center">
-	<a href="https://github.com/sponsors/privatenumber/sponsorships?tier_id=397608"><img width="410" src="https://raw.githubusercontent.com/privatenumber/sponsors/master/banners/assets/sponsor.webp"></a>
+	<a href="https://github.com/sponsors/privatenumber/sponsorships?tier_id=416984"><img width="410" src="https://raw.githubusercontent.com/privatenumber/sponsors/master/banners/assets/sponsor.webp"></a>
 </p>
